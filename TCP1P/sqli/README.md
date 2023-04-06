@@ -1,9 +1,9 @@
-#SQLI
+# SQLI
 
-##Alat
+## Alat
 * Burp Suite
 
-##Steps to Reproduce
+## Steps to Reproduce
 1. Pertama, kita cari input box yang bisa kita eksploitasi dengan sqli pada website. Yang pasti input di character searcher itu bisa kita eksploitasi (karna cuma ada itu aja).
 ![sqli1](sqli1.png)
 
