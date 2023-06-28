@@ -6,7 +6,7 @@
 ## Steps
 ![sc_1](sc_1.png)
 
-1. Karena soal ini tentang cookies, maka setelah masuk ke websitenya kita cookies yang dimiliki website tersebut (bisa melalui inspect element).
+1. Karena soal ini tentang cookies, maka setelah masuk ke websitenya, kita lihat cookies yang dimiliki website tersebut (bisa melalui inspect element).
 ![sc_2](sc_2.png)
 Disini session yang saya dapat adalah "eyJ2ZXJ5X2F1dGgiOiJibGFuayJ9.ZJwv8g.UnXxAK_EhhV2PNwUhx_T2qoRpYM"
 
