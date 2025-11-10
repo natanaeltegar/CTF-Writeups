@@ -14,3 +14,4 @@ deadface{hostbusters2_4685d0c801939781}
 ![secret-stash02](secret-stash02.png)
 
 3. Kita bisa coba buka tiap hidden file yang dimiliki gh0st404 dengan perintah `cat`. Flag berada di dalam file `.dont_forget`.
+![secret-stash03](secret-stash03.png)
